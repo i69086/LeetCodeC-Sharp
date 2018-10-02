@@ -14,7 +14,8 @@ namespace LeetCode
             //var res = _605.CanPlaceFlowers(new int[] { 0,0,1,0,1 }, 2);
             //var max = _628.MaximumProduct(new int[] {-1,-2,1,2,3 });
             //Console.WriteLine(_7.Reverse(1534236469));
-            Console.WriteLine(_9.IsPalindrome(121));
+            //Console.WriteLine(_9.IsPalindrome(121));
+            _14.LongestCommonPrefix(new string[] {"flower", "flow", "flight"});
         }
     }
 }
