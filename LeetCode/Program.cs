@@ -16,7 +16,8 @@ namespace LeetCode
             //Console.WriteLine(_7.Reverse(1534236469));
             //Console.WriteLine(_9.IsPalindrome(121));
             //_14.LongestCommonPrefix(new string[] {"flower", "flow", "flight"});
-            _657.JudgeCircle("UDLR");
+            //_657.JudgeCircle("UDLR");
+            _461.HammingDistance(1, 4);
         }
     }
 }
