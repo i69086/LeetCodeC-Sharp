@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="01.cs" />
     <Compile Include="605.cs" />
+    <Compile Include="628.cs" />
+    <Compile Include="7.cs" />
     <Compile Include="812.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
